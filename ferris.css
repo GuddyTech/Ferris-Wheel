@@ -74,6 +74,8 @@
     top: 7%;
   }
   
+  /* KEYFRAMES for transformation */
+  
   @keyframes wheel {
      0% {
        transform: rotate(0deg);
